@@ -1,4 +1,4 @@
-# navigation-page
+# navigation
 
 > 一个极简的导航页
 
